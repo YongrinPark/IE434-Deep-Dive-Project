@@ -24,29 +24,6 @@ Covers:
 - key insights  
 - team contributions  
 
----
-
-## 🎥 Project Video (Hosted on Google Drive)
 
 The final presentation video could not be uploaded directly to GitHub due to file size limitations.
-
-You can watch the video here:
-
-👉 **[Google Drive Video Link]**  
-*(Insert your actual Drive link here)*
-
-This video includes:
-- a 5–7 minute overview of the project  
-- motivation for the problem  
-- technical challenges and lessons learned  
-- conclusions relevant to real stakeholders  
-- slide-by-slide walkthrough  
-
----
-
-## 📌 Notes
-
-- All raw datasets are stored in the team's Google Drive (not included in GitHub due to size limits).  
-- Only cleaned `.pkl` working/debug datasets are included in `/data` for reproducibility.  
-- Notebooks referenced in the presentation are available in `/code_notebook`.
 

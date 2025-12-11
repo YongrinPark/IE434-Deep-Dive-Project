@@ -26,11 +26,6 @@ Computes feature importance using:
 
 Provides visualizations and final interpretation of which features most strongly drive Illinois LMP.
 
-### 5. `Data_Extraction.ipynb`
-(If included)
-Contains the steps used to extract, clean, align, interpolate, and engineer features from the raw MISO datasets.  
-Outputs the working and debug `.pkl` files found in the `/data` folder.
-
 ---
 
 ## ▶ Notebook Execution Order

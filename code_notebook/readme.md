@@ -25,21 +25,3 @@ Computes feature importance using:
 - Permutation importance  
 
 Provides visualizations and final interpretation of which features most strongly drive Illinois LMP.
-
----
-
-## ▶ Notebook Execution Order
-
-To reproduce the project workflow:
-
-1. **Data_Extraction.ipynb** (optional if `.pkl` files already present)  
-2. **Baseline Learning.ipynb**  
-3. **Deep Learning.ipynb**  
-4. **Deep Learning_weather.ipynb** (optional experiments)  
-5. **Feature Importance (Results).ipynb**
-
----
-
-## 🧩 Dependencies
-
-All not
